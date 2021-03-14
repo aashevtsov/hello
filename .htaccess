@@ -1,0 +1,4 @@
+
+AddHandler cgi-script .py
+Options +execCGI
+DirectoryIndex app.py
